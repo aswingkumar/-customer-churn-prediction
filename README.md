@@ -35,7 +35,7 @@ In this section we will seek to explore the structure of our data:
 - To understand the input space the data set
 - And to prepare the sets for exploratory and prediction tasks as described
 
-  ------To see the complete video explanation on this topic, check out the following link:
+  ------To see the complete video explanation on this topic, check out the following link:  https://youtu.be/LTyaKan2gw8?si=tlPHzO592ljXnq25
 
 
 
